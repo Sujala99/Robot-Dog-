@@ -1,0 +1,16 @@
+2024-07-09 10:54:35,703 - INFO - Attempt: regulatory, Similarity Score: 0.5000368971449873
+2024-07-09 10:58:07,850 - INFO - Attempt: circulatory, Similarity Score: 1.0
+2024-07-09 13:03:09,823 - INFO - Joke fetched from API successfully.
+2024-07-09 13:03:21,253 - INFO - Joke fetched from API successfully.
+2024-07-09 13:03:30,987 - INFO - Joke fetched from API successfully.
+2024-07-09 13:06:00,424 - INFO - Joke fetched from API successfully.
+2024-07-09 18:05:44,231 - INFO - Attempt: abbreviation, Similarity Score: 0.3315438323281657
+2024-07-09 18:05:59,385 - INFO - Attempt: create, Similarity Score: 0.4428740799812473
+2024-07-09 18:06:14,827 - INFO - Attempt: appropriation, Similarity Score: 0.29843091646133535
+2024-07-09 21:30:18,290 - INFO - Joke fetched from API successfully.
+2024-07-09 21:34:49,609 - INFO - Attempt: happy, Similarity Score: 1.0
+2024-07-10 21:23:39,238 - INFO - Attempt: alina, Similarity Score: 0.7804830697486659
+2024-07-10 21:23:52,375 - INFO - Attempt: alina, Similarity Score: 0.7804830697486659
+2024-07-10 21:39:23,086 - INFO - Joke fetched from API successfully.
+2024-07-10 21:57:56,726 - INFO - Joke fetched from API successfully.
+2024-07-10 22:07:43,035 - INFO - Joke fetched from API successfully.
